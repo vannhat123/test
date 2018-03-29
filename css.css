@@ -1,0 +1,60 @@
+/*
+* @Author: DELL
+* @Date:   2017-08-10 21:20:59
+* @Last Modified by:   DELL
+* @Last Modified time: 2017-08-10 23:37:06
+*/
+*{list-style-type: none;
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	font-family:tahoma;
+	}
+body{
+	height:1000px;
+	width:auto;
+	background:black;
+}
+#all{
+	height:100%;
+	width:80%;
+	margin:0 10% 0 10%;
+}
+	#dau{
+		border-radius: 10px;
+		border:1px solid black;
+		height:20%;
+		width:100%;
+		background:#a4dcf4;
+	}
+	#than{
+		border-radius: 10px;
+		margin-top:1%;
+		border:1px solid #4b658e;
+		height:90%;
+		width:100%;
+		background:#beefae;
+	}
+	img{
+		border:2px solid black;
+		border-radius: 10px;
+	}
+	h2{
+		margin-top:0.4%;
+		padding:5px;
+		background:red;
+			border-radius: 10px;
+		border:1px solid #4b658e;
+	}
+	h1{
+		padding:5px;
+		background:#31657c;
+		border-radius: 10px;
+		border:1px solid #4b658e;
+	}
+	p{
+		font-size:20px;
+		color:#e05e55;
+	}
